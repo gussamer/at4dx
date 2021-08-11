@@ -1,7 +1,7 @@
 {
     "name": "npm-at4dx",
     "version": "1.0.0",
-    "description": "npm mirror of the at4dx apex library",
+    "description": "unofficial npm mirror of the at4dx apex library",
     "main": "index.js",
     "scripts": {
         "test": "bash ./bin/qfpm/test",
