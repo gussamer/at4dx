@@ -49,3 +49,4 @@ force-di/
 
 #qfpm
 bin/qfpm/
+test_results
