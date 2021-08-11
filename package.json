@@ -1,0 +1,40 @@
+{
+    "name": "npm-at4dx",
+    "version": "1.0.0",
+    "description": "npm mirror of the at4dx apex library",
+    "main": "index.js",
+    "scripts": {
+        "test": "bash ./bin/qfpm/test",
+        "build": "bash ./bin/qfpm/build",
+        "clean": "bash ./bin/qfpm/clean",
+        "deploy": "bash ./bin/qfpm/deploy",
+        "getprojectname": "bash ./bin/qfpm/getprojectname",
+        "isqfpm": "bash ./bin/qfpm/isqfpm",
+        "isscratched": "bash ./bin/qfpm/isscratched",
+        "postinstall": "bash ./bin/qfpm/postinstall",
+        "preinstall": "bash ./bin/qfpm/preinstall",
+        "push": "bash ./bin/qfpm/push",
+        "scratch": "bash ./bin/qfpm/scratch",
+        "setup": "bash ./bin/qfpm/setup"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gussamer/at4dx.git"
+    },
+    "keywords": [
+        "salesforce",
+        "npm",
+        "sfdx"
+    ],
+    "author": "\u0016https://github.com/apex-enterprise-patterns/at4dx/graphs/contributors",
+    "license": "BSD-3-Clause",
+    "bugs": {
+        "url": "https://github.com/gussamer/at4dx/issues"
+    },
+    "homepage": "https://github.com/gussamer/at4dx#readme",
+    "dependencies": {
+        "npm-fflib-common": "^1.0.23",
+        "npm-force-di": "^1.0.0",
+        "qfpm": "^1.0.17"
+    }
+}

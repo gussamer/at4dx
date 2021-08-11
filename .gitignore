@@ -35,9 +35,7 @@ sfdx-source/untracked/
 .execanon
 
 # NPM Related
-package.json
 /node_modules
-package-lock.json
 
 # Really exotic IDE folders
 .vim-force.com/
@@ -48,3 +46,6 @@ research/
 fflib-apex-mocks/
 fflib-apex-common/
 force-di/
+
+#qfpm
+bin/qfpm/
