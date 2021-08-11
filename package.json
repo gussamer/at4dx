@@ -15,7 +15,8 @@
         "preinstall": "bash ./bin/qfpm/preinstall",
         "push": "bash ./bin/qfpm/push",
         "scratch": "bash ./bin/qfpm/scratch",
-        "setup": "bash ./bin/qfpm/setup"
+        "setup": "bash ./bin/qfpm/setup",
+        "getsrcfolders": "bash ./bin/qfpm/getsrcfolders"
     },
     "repository": {
         "type": "git",
@@ -26,7 +27,7 @@
         "npm",
         "sfdx"
     ],
-    "author": "\u0016https://github.com/apex-enterprise-patterns/at4dx/graphs/contributors",
+    "author": "https://github.com/apex-enterprise-patterns/at4dx/graphs/contributors",
     "license": "BSD-3-Clause",
     "bugs": {
         "url": "https://github.com/gussamer/at4dx/issues"
@@ -34,7 +35,7 @@
     "homepage": "https://github.com/gussamer/at4dx#readme",
     "dependencies": {
         "npm-fflib-common": "^1.0.23",
-        "npm-force-di": "^1.0.0",
-        "qfpm": "^1.0.17"
+        "npm-force-di": "^1.0.1",
+        "qfpm": "^1.0.18"
     }
 }
