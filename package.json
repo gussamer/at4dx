@@ -34,8 +34,8 @@
     },
     "homepage": "https://github.com/gussamer/at4dx#readme",
     "dependencies": {
-        "npm-fflib-common": "^1.0.23",
-        "npm-force-di": "^1.0.1",
+        "npm-fflib-common": "^1.0.26",
+        "npm-force-di": "^1.0.3",
         "qfpm": "^1.0.18"
     }
 }
