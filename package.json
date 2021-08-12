@@ -1,6 +1,6 @@
 {
     "name": "npm-at4dx",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "unofficial npm mirror of the at4dx apex library",
     "main": "index.js",
     "scripts": {
@@ -16,7 +16,8 @@
         "push": "bash ./bin/qfpm/push",
         "scratch": "bash ./bin/qfpm/scratch",
         "setup": "bash ./bin/qfpm/setup",
-        "getsrcfolders": "bash ./bin/qfpm/getsrcfolders"
+        "getsrcfolders": "bash ./bin/qfpm/getsrcfolders",
+        "removedepends": "bash ./bin/qfpm/removedepends"
     },
     "repository": {
         "type": "git",
@@ -34,8 +35,8 @@
     },
     "homepage": "https://github.com/gussamer/at4dx#readme",
     "dependencies": {
-        "npm-fflib-common": "^1.0.26",
-        "npm-force-di": "^1.0.3",
-        "qfpm": "^1.0.18"
+        "npm-fflib-common": "^1.0.27",
+        "npm-force-di": "^1.0.4",
+        "qfpm": "^1.0.19"
     }
 }
