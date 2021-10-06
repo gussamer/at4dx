@@ -47,6 +47,4 @@ fflib-apex-mocks/
 fflib-apex-common/
 force-di/
 
-#qfpm
-bin/qfpm/
 test_results

@@ -1,6 +1,6 @@
 {
     "name": "npm-at4dx",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "description": "unofficial npm mirror of the at4dx apex library",
     "main": "index.js",
     "repository": {
@@ -9,7 +9,7 @@
     },
     "keywords": [
         "salesforce",
-        "npm",
+        "apex",
         "sfdx"
     ],
     "author": "https://github.com/apex-enterprise-patterns/at4dx/graphs/contributors",
@@ -35,8 +35,8 @@
         "test": "qtest"
     },
     "dependencies": {
-        "npm-fflib-common": "^1.0.32",
-        "npm-force-di": "^1.0.6",
-        "qfpm": "^1.0.26"
+        "npm-fflib-common": "^1.1.0",
+        "npm-force-di": "^1.1.0",
+        "qfpm": "^1.1.0"
     }
 }
