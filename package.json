@@ -1,7 +1,7 @@
 {
     "name": "npm-at4dx",
-    "version": "1.1.0",
-    "description": "unofficial npm mirror of the at4dx apex library",
+    "version": "1.1.1",
+    "description": "the unofficial npm at4dx mirror",
     "main": "index.js",
     "repository": {
         "type": "git",
