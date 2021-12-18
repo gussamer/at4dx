@@ -35,8 +35,8 @@
         "test": "qtest"
     },
     "dependencies": {
-        "npm-fflib-common": "^1.1.0",
-        "npm-force-di": "^1.1.0",
-        "qfpm": "^1.1.0"
+        "npm-fflib-common": "^1.1.1",
+        "npm-force-di": "^1.1.1",
+        "qfpm": "^1.1.1"
     }
 }
